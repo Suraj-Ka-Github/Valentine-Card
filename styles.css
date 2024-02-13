@@ -178,3 +178,17 @@
     top: 60px;
     font-family: 'Protest Riot', sans-serif;
 }
+
+.bottom::before{
+    content : "~ Suraj";
+    position: absolute;
+    color: #d04e4e;
+    font-size: 15px;
+    top: 265px;
+    right: 10px;
+    width: 200px;
+    text-align: right;
+    font-weight: 600;
+    font-family: 'Protest Revolution', sans-serif;
+
+}
